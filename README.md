@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Haris Malik</h1>
+<h1 align="center">Hi 👋, I'm Haris</h1>
 <h3 align="center">Empowering Software Development through Innovative Solutions and Creative Problem Solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harismalik-1&label=Profile%20views&color=0e75b6&style=flat" alt="harismalik-1" /> </p>
