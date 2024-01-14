@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harismalik-1&label=Profile%20views&color=0e75b6&style=flat" alt="harismalik-1" /> </p>
 
-- 🌱 I’m currently learning **React and ROS2**
+- 🌱 I’m currently learning **ROS2**
 
 - 👨‍💻 All of my projects are available at [https://harismalik-1.github.io/Personal-Website/](https://harismalik-1.github.io/Personal-Website/)
 
